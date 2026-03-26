@@ -11,6 +11,21 @@
             bindings = <&kp ESCAPE>;
             key-positions = <0 1>;
         };
+
+        desktop {
+            bindings = <&kp LC(D)>;
+            key-positions = <14 15>;
+        };
+
+        wine {
+            bindings = <&kp LG(E)>;
+            key-positions = <15 16>;
+        };
+
+        altf4 {
+            bindings = <&kp LA(F4)>;
+            key-positions = <17 16>;
+        };
     };
 
     keymap {
