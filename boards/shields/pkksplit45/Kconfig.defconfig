@@ -1,7 +1,7 @@
 if SHIELD_DECADECA_LEFT
 
 config ZMK_KEYBOARD_NAME
-    default "Decadeca_Split"
+    default "pkksplit45"
 
 config ZMK_SPLIT_ROLE_CENTRAL
     default y
